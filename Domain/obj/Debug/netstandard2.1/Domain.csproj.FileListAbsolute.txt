@@ -1,0 +1,9 @@
+D:\Shinto\Udemy\Intelliflo\Projects\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+D:\Shinto\Udemy\Intelliflo\Projects\Domain\bin\Debug\netstandard2.1\Domain.dll
+D:\Shinto\Udemy\Intelliflo\Projects\Domain\bin\Debug\netstandard2.1\Domain.pdb
+D:\Shinto\Udemy\Intelliflo\Projects\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+D:\Shinto\Udemy\Intelliflo\Projects\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+D:\Shinto\Udemy\Intelliflo\Projects\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+D:\Shinto\Udemy\Intelliflo\Projects\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+D:\Shinto\Udemy\Intelliflo\Projects\Domain\obj\Debug\netstandard2.1\Domain.dll
+D:\Shinto\Udemy\Intelliflo\Projects\Domain\obj\Debug\netstandard2.1\Domain.pdb

@@ -1,0 +1,14 @@
+D:\Shinto\Udemy\Intelliflo\Projects\Application\bin\Debug\netstandard2.1\Application.deps.json
+D:\Shinto\Udemy\Intelliflo\Projects\Application\bin\Debug\netstandard2.1\Application.dll
+D:\Shinto\Udemy\Intelliflo\Projects\Application\bin\Debug\netstandard2.1\Application.pdb
+D:\Shinto\Udemy\Intelliflo\Projects\Application\bin\Debug\netstandard2.1\Domain.dll
+D:\Shinto\Udemy\Intelliflo\Projects\Application\bin\Debug\netstandard2.1\Persistence.dll
+D:\Shinto\Udemy\Intelliflo\Projects\Application\bin\Debug\netstandard2.1\Domain.pdb
+D:\Shinto\Udemy\Intelliflo\Projects\Application\bin\Debug\netstandard2.1\Persistence.pdb
+D:\Shinto\Udemy\Intelliflo\Projects\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+D:\Shinto\Udemy\Intelliflo\Projects\Application\obj\Debug\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+D:\Shinto\Udemy\Intelliflo\Projects\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+D:\Shinto\Udemy\Intelliflo\Projects\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+D:\Shinto\Udemy\Intelliflo\Projects\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+D:\Shinto\Udemy\Intelliflo\Projects\Application\obj\Debug\netstandard2.1\Application.dll
+D:\Shinto\Udemy\Intelliflo\Projects\Application\obj\Debug\netstandard2.1\Application.pdb

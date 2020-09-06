@@ -1,0 +1,12 @@
+D:\Shinto\Udemy\Intelliflo\Projects\Persistence\bin\Debug\netstandard2.0\Persistence.deps.json
+D:\Shinto\Udemy\Intelliflo\Projects\Persistence\bin\Debug\netstandard2.0\Persistence.dll
+D:\Shinto\Udemy\Intelliflo\Projects\Persistence\bin\Debug\netstandard2.0\Persistence.pdb
+D:\Shinto\Udemy\Intelliflo\Projects\Persistence\bin\Debug\netstandard2.0\Domain.dll
+D:\Shinto\Udemy\Intelliflo\Projects\Persistence\bin\Debug\netstandard2.0\Domain.pdb
+D:\Shinto\Udemy\Intelliflo\Projects\Persistence\obj\Debug\netstandard2.0\Persistence.csprojAssemblyReference.cache
+D:\Shinto\Udemy\Intelliflo\Projects\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Shinto\Udemy\Intelliflo\Projects\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfoInputs.cache
+D:\Shinto\Udemy\Intelliflo\Projects\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfo.cs
+D:\Shinto\Udemy\Intelliflo\Projects\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CopyComplete
+D:\Shinto\Udemy\Intelliflo\Projects\Persistence\obj\Debug\netstandard2.0\Persistence.dll
+D:\Shinto\Udemy\Intelliflo\Projects\Persistence\obj\Debug\netstandard2.0\Persistence.pdb
