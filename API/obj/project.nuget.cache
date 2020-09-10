@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ajPv2nDw8W1zvTJexAIWgB71NbZK7RwBpDnA7WhWvyx1P0N2QYbwsh6/KHMTnv0RV+zA65kxPcepOA9s9h1zcQ==",
+  "dgSpecHash": "mmENm4kDlWY60jf8cg03VD0h/odvLqe0l/yv9M8+Jtuo7Of8GGQdzUUax0xfeNdCAJoAjxfz8IoUBw5WmnQrDg==",
   "success": true,
   "projectFilePath": "D:\\Shinto\\Udemy\\Intelliflo\\Projects\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\shinto.thomas\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
+    "C:\\Users\\shinto.thomas\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\7.0.0\\mediatr.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\shinto.thomas\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
     "C:\\Users\\shinto.thomas\\.nuget\\packages\\microsoft.data.sqlite.core\\3.0.0\\microsoft.data.sqlite.core.3.0.0.nupkg.sha512",
     "C:\\Users\\shinto.thomas\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.0.0\\microsoft.dotnet.platformabstractions.3.0.0.nupkg.sha512",

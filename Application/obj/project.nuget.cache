@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "xH+9KAH3TSV+VdhXFQGkOqdguYGmi2yTMvE5VSQjvZNW+8HhjJU9puYWJnt/RtkNAn8FlN9/o876SZuWi75Qlw==",
+  "dgSpecHash": "yRPVNb6JoOsjD6538L7ozMwkp0jsxVwGgpkVCyd0T/yZM61t8Qa1nRtPjRSsovvwE6PUs7iOIdDnclxR8g/CzQ==",
   "success": true,
   "projectFilePath": "D:\\Shinto\\Udemy\\Intelliflo\\Projects\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\shinto.thomas\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
+    "C:\\Users\\shinto.thomas\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\7.0.0\\mediatr.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\shinto.thomas\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
     "C:\\Users\\shinto.thomas\\.nuget\\packages\\microsoft.data.sqlite.core\\3.0.0\\microsoft.data.sqlite.core.3.0.0.nupkg.sha512",
     "C:\\Users\\shinto.thomas\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.0.0\\microsoft.dotnet.platformabstractions.3.0.0.nupkg.sha512",
