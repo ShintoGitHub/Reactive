@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "yRPVNb6JoOsjD6538L7ozMwkp0jsxVwGgpkVCyd0T/yZM61t8Qa1nRtPjRSsovvwE6PUs7iOIdDnclxR8g/CzQ==",
+  "dgSpecHash": "99Ym50PTR0zk65NYLp9xmBM9b8lagNKxPkzFd8mw/gOt5+hAF+1h/ToUjgslV0/Sm17lbTK1qc7NHzsJGtX7Lw==",
   "success": true,
   "projectFilePath": "D:\\Shinto\\Udemy\\Intelliflo\\Projects\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\shinto.thomas\\.nuget\\packages\\fluentvalidation\\8.5.1\\fluentvalidation.8.5.1.nupkg.sha512",
+    "C:\\Users\\shinto.thomas\\.nuget\\packages\\fluentvalidation.aspnetcore\\8.5.1\\fluentvalidation.aspnetcore.8.5.1.nupkg.sha512",
+    "C:\\Users\\shinto.thomas\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\8.5.1\\fluentvalidation.dependencyinjectionextensions.8.5.1.nupkg.sha512",
     "C:\\Users\\shinto.thomas\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
     "C:\\Users\\shinto.thomas\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\7.0.0\\mediatr.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
-    "C:\\Users\\shinto.thomas\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
     "C:\\Users\\shinto.thomas\\.nuget\\packages\\microsoft.data.sqlite.core\\3.0.0\\microsoft.data.sqlite.core.3.0.0.nupkg.sha512",
     "C:\\Users\\shinto.thomas\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.0.0\\microsoft.dotnet.platformabstractions.3.0.0.nupkg.sha512",
     "C:\\Users\\shinto.thomas\\.nuget\\packages\\microsoft.entityframeworkcore\\3.0.0\\microsoft.entityframeworkcore.3.0.0.nupkg.sha512",
@@ -30,17 +32,16 @@
     "C:\\Users\\shinto.thomas\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.0\\sqlitepclraw.bundle_e_sqlite3.2.0.0.nupkg.sha512",
     "C:\\Users\\shinto.thomas\\.nuget\\packages\\sqlitepclraw.core\\2.0.0\\sqlitepclraw.core.2.0.0.nupkg.sha512",
     "C:\\Users\\shinto.thomas\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.0\\sqlitepclraw.lib.e_sqlite3.2.0.0.nupkg.sha512",
-    "C:\\Users\\shinto.thomas\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.0\\sqlitepclraw.provider.e_sqlite3.2.0.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\shinto.thomas\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.0\\sqlitepclraw.provider.dynamic_cdecl.2.0.0.nupkg.sha512",
     "C:\\Users\\shinto.thomas\\.nuget\\packages\\system.collections.immutable\\1.6.0\\system.collections.immutable.1.6.0.nupkg.sha512",
     "C:\\Users\\shinto.thomas\\.nuget\\packages\\system.componentmodel.annotations\\4.6.0\\system.componentmodel.annotations.4.6.0.nupkg.sha512",
     "C:\\Users\\shinto.thomas\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
     "C:\\Users\\shinto.thomas\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\shinto.thomas\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
-    "C:\\Users\\shinto.thomas\\.nuget\\packages\\system.text.encodings.web\\4.6.0\\system.text.encodings.web.4.6.0.nupkg.sha512",
     "C:\\Users\\shinto.thomas\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
-    "C:\\Users\\shinto.thomas\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+    "C:\\Users\\shinto.thomas\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "C:\\Users\\shinto.thomas\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\shinto.thomas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\shinto.thomas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
   ],
   "logs": []
 }

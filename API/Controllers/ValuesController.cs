@@ -31,7 +31,9 @@ namespace API.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult<string>> Get(int id)
         {
-            var result = await _context.Values.FindAsync(id);            
+            var result = await _context.Values.FindAsync(id);    
+            if(result==null)
+                return NotFound();        
             return Ok(result);
         }
     }

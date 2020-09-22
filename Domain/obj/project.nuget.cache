@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "8HLlg+LbxTISh5WERHV6dpQ8NHdlrbu1MGxAuVRuRi6Pny5VgFU07RngMuo/QDWfqn7K6/VvXv2nauGAOvaPmA==",
+  "dgSpecHash": "9GMjeiZlXabbw5Ab8oVbTfMSOG0sm8rAGq03AbIG4w4kaZiyFXQ8Pz0jkYZDmp1mYkAYcBddIXdaze1bB/2c/g==",
   "success": true,
   "projectFilePath": "D:\\Shinto\\Udemy\\Intelliflo\\Projects\\Domain\\Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\shinto.thomas\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\shinto.thomas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\shinto.thomas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
